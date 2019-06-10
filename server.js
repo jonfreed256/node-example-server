@@ -3,14 +3,14 @@ const path = require("path");
 
 const complements = [
   "You like nice today",
-  "That dress looks nice on you",
+  "You're an awesome friend",
   "Have you been working out?",
   "You can do hard things",
-  "You've gotten far in this course. You're really smart",
-  "You're programming! How cool is that?",
+  "You're a smart cookie",
+  "You are awesome!",
   "I'm really proud of you",
-  "You made this",
-  "You've learned a lot of things, and that's pretty hard to do"
+  "I like your style",
+  "You should be proud of yourself"
 ];
 
 function getRandomComplement() {
